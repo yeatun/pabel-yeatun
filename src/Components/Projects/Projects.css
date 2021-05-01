@@ -1,0 +1,22 @@
+.projects-title {
+    font-weight: 700;
+}
+
+.project-section-padding {
+ margin-right:5px;
+} 
+.bg-color{
+    background-color: rgba(14, 165, 202, 0.267);
+}
+#div_top_hypers {
+   
+    display:inline;      
+}
+#ul_top_hypers {
+    display: inline;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}

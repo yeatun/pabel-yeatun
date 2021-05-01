@@ -1,0 +1,42 @@
+.title-name {
+    font-size: calc(8px + 5vw);
+    font-weight: 700;
+    color: #ccd6f6;
+}
+
+.hero-subtitle {
+    font-size: calc(8px + 4vw);
+    font-weight: 700;
+}
+
+.hero-list {
+    display: inline-block
+}
+
+.hero-text {
+    font-size: 16px;
+}
+
+.hero-btn {
+    border: 1px solid #FFFF00;
+    border-radius: 5px;
+    transition: .35s;
+}
+
+.touch-btn {
+    color: #FFFF00!important;
+}
+
+.touch-btn:hover {
+    background-color: rgb(100 255 215 / 10%);
+}
+
+.about-btn {
+    background-color: #FFFF00!important;
+}
+
+.about-btn:hover {
+    background-color: rgb(100 255 215 / 10%) !important;
+    color: #d4be42!important;
+}
+
